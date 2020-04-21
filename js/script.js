@@ -1,5 +1,4 @@
 function init(){
- 
   var msg = document.getElementById('entryinput');	
   var eb = document.getElementById('entrybutton');
 eb.addEventListener('click', function() {
